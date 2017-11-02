@@ -10,6 +10,6 @@
 namespace Furniture {
     
     
-    public partial class About {
+    public partial class Input {
     }
 }

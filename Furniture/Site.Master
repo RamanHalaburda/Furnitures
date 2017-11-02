@@ -39,7 +39,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">Кравченя Виктория</a>
+                    <a runat="server" href="~/">Furniture</a>
                 </p>
             </div>
             <div class="float-right">
@@ -64,9 +64,10 @@
                 -->
                 <nav>
                     <ul id="menu">
-                        <li><a runat="server" href="~/">Домашняя</a></li>
+                        <li><a runat="server" href="~/">Домашняя</a></li>                        
+                        <li><a id="A1" runat="server" href="~/Input.aspx"><u>Оптимизация</u></a></li>
                         <li><a runat="server" href="~/About.aspx">О программе</a></li>
-                        <li><a runat="server" href="~/Contact.aspx">Контакт</a></li>
+                        <!--<li><a runat="server" href="~/Contact.aspx">Контакт</a></li>-->
                     </ul>
                 </nav>
             </div>
